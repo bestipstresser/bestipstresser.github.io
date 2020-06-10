@@ -1192,7 +1192,7 @@ a:hover {
 .tf-hero-slide.tf-style1 .tf-hero-img,
 .tf-hero-slide.tf-style2 .tf-hero-img {
   position: absolute;
-  left: 62.5%;
+  left: 58.5%;
   top: 50%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
@@ -1200,11 +1200,11 @@ a:hover {
   z-index: 1;
 }
 
-.tf-hero-slide.tf-style1 .tf-hero-img img,
+/*.tf-hero-slide.tf-style1 .tf-hero-img img,
 .tf-hero-slide.tf-style2 .tf-hero-img img {
   -webkit-animation: 1.7s infinite alternate imageUpAnimation;
   animation: 1.7s infinite alternate imageUpAnimation;
-}
+}*/
 
 .tf-hero-text.tf-style1 h1 {
   font-size: 50px;
