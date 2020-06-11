@@ -132,6 +132,8 @@ img {
 }
 
 a {
+  outline: none !important;
+  box-shadow: none;
   color: inherit;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -141,6 +143,8 @@ a {
 a:hover {
   text-decoration: none;
   color: #ff8a73;
+  outline: none !important;
+  box-shadow: none;
 }
 
 /*--------------------------------------------------------------
